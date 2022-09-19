@@ -1,0 +1,45 @@
+body{
+    min-height: 85vh;
+    display: flex;
+    background: cornsilk;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    font-size: 30px;
+    padding-top: 0;
+    margin-top: 0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.con{
+    
+    background: rgb(197, 153, 153);
+    height: 13rem;
+    flex: 0 0 70%;
+    text-align: center;
+    border: 3px solid rgb(75, 66, 66);
+    padding: 1rem;
+    font-weight: bold;
+    box-shadow: 3px 3px 10px 10px rgb(51, 36, 36);
+    border-radius: 20px;
+    width: 150px;
+}
+p{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#sub{
+    font-size: 18px;
+    border-radius: 7px;
+}
+
+#Numberin{
+    font-size: 25px;
+    width: 5rem;
+    border-radius: 7px;
+}
+#sub:hover{
+    background: rgb(107, 74, 74);
+}
